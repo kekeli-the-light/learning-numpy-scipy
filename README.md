@@ -1,2 +1,3 @@
-# kekeliLearnsML
-Projects And Stuff I do on ML
+# kekeliLearns ML
+#Learn my first python library with me, numpy!
+
