@@ -1,3 +1,3 @@
-# kekeliLearns ML
-#Learn my first python library with me, numpy!
+# Notes on numpy
+
 
